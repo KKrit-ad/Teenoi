@@ -1,0 +1,105 @@
+[
+  {
+    "imgSrc": "./images/หมูสามชั้นสไลด์.jpg",
+    "name": "หมูสามชั้นสไลด์"
+  },
+  {
+    "imgSrc": "./images/สันนอกหมูสไลด์.jpg",
+    "name": "สันนอกหมูสไลด์"
+  },
+  {
+    "imgSrc": "./images/สันคอหมูสไลด์.jpg",
+    "name": "สันคอหมูสไลด์"
+  },
+  {
+    "imgSrc": "./images/เนื้อสันนอกสไลด์.jpg",
+    "name": "เนื้อสันนอกสไลด์"
+  },
+  {
+    "imgSrc": "./images/เบคอนถาด.jpg",
+    "name": "เบคอนถาด"
+  },
+  {
+    "imgSrc": "./images/ลูกชิ้นหมู.jpg",
+    "name": "ลูกชิ้นหมู"
+  },
+  {
+    "imgSrc": "./images/ปลาหมึก.png",
+    "name": "ปลาหมึก"
+  },
+  {
+    "imgSrc": "./images/กุ้ง.png",
+    "name": "กุ้ง"
+  },
+  {
+    "imgSrc": "./images/ไข่ไก่.jpg",
+    "name": "ไข่ไก่"
+  },
+  {
+    "imgSrc": "./images/ไข่นกกระทา.jpg",
+    "name": "ไข่นกกระทา",
+    "price": "$0"
+  },
+  {
+    "imgSrc": "./images/สาหร่าย.jpg",
+    "name": "สาหร่าย",
+    "price": "$0"
+  },
+  {
+    "imgSrc": "./images/เส้นอุด้ง.jpg",
+    "name": "เส้นอุด้ง",
+    "price": "$0"
+  },
+  {
+    "imgSrc": "./images/มาม่า.jpg",
+    "name": "เส้นมาม่า",
+    "price": "$0"
+  },
+  {
+    "imgSrc": "./images/บะหมี่หยก.jpg",
+    "name": "บะหมี่หยก",
+    "price": "$0"
+  },
+  {
+    "imgSrc": "./images/ผักบุ้ง.jpg",
+    "name": "ผักบุ้ง"
+  },
+  {
+    "imgSrc": "./images/ผักกาดขาว.jpg",
+    "name": "ผักกาดขาว"
+  },
+
+  {
+    "imgSrc": "./images/กำหล่ำปลีฝอย.png",
+    "name": "กำหล่ำปลีฝอย"
+  },
+
+  {
+    "imgSrc": "./images/แครอท.jpg",
+    "name": "แครอท"
+  },
+  {
+    "imgSrc": "./images/เกี๊ยวกุ้ง.jpg",
+    "name": "เกี๊ยวกุ้ง"
+  },
+  {
+    "imgSrc": "./images/เกี๊ยวหมู.jpg",
+    "name": "เกี๊ยวหมู"
+  },
+  {
+    "imgSrc": "./images/วุ้นเส้น.jpg",
+    "name": "วุ้นเส้น"
+  },
+  {
+    "imgSrc": "./images/ไอศครีมช็อคโกแลต.jpg",
+    "name": "ไอศครีมช็อคโกแลต"
+  },
+  {
+    "imgSrc": "./images/ไอศครีมวานิลลา.jpg",
+    "name": "ไอศครีมวานิลลา"
+  },
+  {
+    "imgSrc": "./images/ไอศครีมชาเขียว.jpg",
+    "name": "ไอศครีมชาเขียว"
+  }
+]
